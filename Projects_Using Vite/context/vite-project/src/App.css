@@ -1,0 +1,30 @@
+/* App.css */
+.mainApp {
+  display: flex;
+  flex-direction: row;
+  justify-items:center;
+  gap : 300px
+}
+
+.parent {
+  border: 5px solid rgb(10, 10, 10);
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.children {
+  border: 4px solid rgb(248, 50, 0);
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.gdaughter {
+  border: 2px solid rgb(195, 0, 255);
+  padding: 5px;
+  margin: 10px;
+}
+.gson {
+  border: 2px solid rgb(24, 20, 245);
+  padding: 5px;
+  margin: 10px;
+}
